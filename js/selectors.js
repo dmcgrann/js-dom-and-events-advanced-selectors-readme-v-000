@@ -12,9 +12,9 @@ function ninjaBabySelector() {
 }
 
 function divSelector() {
-  return $('div');
+  return $('#pics');
 }
 
 function firstListItem() {
-  return $('ul li:pic-list');
+  return $('ul li:#pic-list');
 }
