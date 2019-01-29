@@ -8,5 +8,5 @@ function lastImageSelector() {
 }
 
 function ninjaBabySelector() {
-  return $("img[alt='after-school-assets/baby-ninja']");
+  return $('#baby-ninja');
 }
